@@ -1,3 +1,0 @@
-Testando Git - repo 1
-
-Testando uma atualização de arquivo
